@@ -44,7 +44,7 @@ from aiogram.types import (
 #  CONFIGURATION  (hardcoded on purpose — no env vars, no .env)
 # ─────────────────────────────────────────────────────────────
 
-BOT_TOKEN = "9109189460:AAERnOBh9jiQ5cIOCTblAy_dMFPQtVv3HpE"
+BOT_TOKEN = "8838401240:AAGz4GgwEPgJfBaD0DWXWnkIk86FwKtF-G4"
 ADMIN_ID = 8955367959
 
 JOIN_EMOJI_ID = "5296369303661067030"
